@@ -1,0 +1,1 @@
+Enter two positive integers: The least common multiple of 5 and 6 is 30.
